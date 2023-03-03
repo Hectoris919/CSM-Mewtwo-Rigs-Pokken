@@ -1,1 +1,1 @@
-# CSM-Mewtwo-Rigs-Pokken-
+# CSM Mewtwo Rigs (Pokken)
