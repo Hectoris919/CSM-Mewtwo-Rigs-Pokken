@@ -2,7 +2,7 @@
 
 ### Just a port for Clip Studio Paint of all the Mewtwo models from Pokken
 
-You can change the mouths on each rig by changeing their face in the Faces dropdown in CSP. You can also change the eye and eyelids in the Expression Settings dropdown. You can also add or remove teeth in the Hair dropdown <sub><sup>*(don't ask. it just works XD)*</sup></sub>
+You can change the mouths on each rig by changeing their face in the Faces dropdown in CSP. You can also change the eye and eyelids in the Expression Settings dropdown. You can also add or remove teeth in the Hair dropdown.
 
 ![FaceSettings](https://user-images.githubusercontent.com/47396668/224461617-09811206-89d2-4a04-9875-a8c2ccbf77cd.png)
 
